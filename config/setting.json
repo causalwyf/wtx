@@ -1,0 +1,26 @@
+{
+  "config": {
+    "branch": "main",
+    "domain": "https://causalwyf.github.io/wtx/",
+    "email": "",
+    "platform": "github",
+    "repository": "wtx",
+    "token": "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",
+    "username": "causalwyf"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
